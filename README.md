@@ -1,4 +1,4 @@
-# YOLOv8-Image-Object-Dataset Integration
+# YOLOv8-Image-Object-Dataset Integration & Object Detection
 BY TOMMY LEE & U JIN SEAH
 
 ## Overview
